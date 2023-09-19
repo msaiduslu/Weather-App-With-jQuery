@@ -1,6 +1,5 @@
 
-/* RESET STYLES
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 :root {
   --bg_main:linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);;
   --text_light: #fff;
@@ -60,8 +59,7 @@ body {
 }
 
 
-/* SECTION #1
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .top-banner {
   color: var(--text_med);
   background: rgba(255,255,255,0.25);
@@ -121,8 +119,7 @@ border-radius: 10px;
 }
 
 
-/* SECTION #2
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .ajax-section {
   margin: 70px 0 20px;
 }
@@ -175,8 +172,7 @@ border-radius: 10px;
   height: 100px;
 }
 
-/* MQ
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 @media screen and (max-width: 1000px) {
   body {
     padding: 30px;
